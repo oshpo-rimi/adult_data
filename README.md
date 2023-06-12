@@ -19,3 +19,4 @@ Pandas-ex
 8. What country has the highest percentage of people that earn >50K and what is that percentage?
 
 9. Identify the most popular occupation for those who earn >50K in India.
+![image](https://github.com/oshpo-rimi/adult_data/assets/132921683/a83eb37f-86b0-4d82-b21f-d6f8ff71914f)
